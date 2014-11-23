@@ -1,3 +1,5 @@
+//  USING A MODULE, LOG FILES FROM A GIVEN DIRECTORY FILTERED BY FILE TYPE
+
 var printFiles = require('./print_files');
 
 function logFileNames(error, data){
